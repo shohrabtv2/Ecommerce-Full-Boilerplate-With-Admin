@@ -17,6 +17,6 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Singapore","country":"Singapore","image":"Singapore","ip":"167.71.203.127","active":"true","signal":"a"},
-    {"id":0, "file":0, "city":"Hong Kong","country":"Hong Kong","image":"Hong Kong","ip":"13.75.42.144","active":"true","signal":"b"}
+    {"id":1, "file":1, "city":"Hong Kong","country":"Hong Kong","image":"Hong Kong","ip":"13.75.42.144","active":"true","signal":"b"}
   ]
 }
