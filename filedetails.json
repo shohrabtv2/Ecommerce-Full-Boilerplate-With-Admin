@@ -114,13 +114,13 @@ f689c741cc56467a111df1f3fbc338e8
 </tls-auth>"
     },
 {
-        "id": 0,
+        "id": 1,
         "file": "client
 dev tun
 proto udp
 sndbuf 0
 rcvbuf 0
-remote 167.71.203.127 1194
+remote 13.75.42.144 1194
 resolv-retry infinite
 nobind
 persist-key
