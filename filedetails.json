@@ -91,7 +91,8 @@
                  LNXwTHrIsoinZ/jvdV7E3qYv5rQBPZ1IRGVp5vdfRXEgL7AyDzSs6yFSWM5cLTT3
                  DNPeYhvYvXoEqjdN5pvJPrT6
                  -----END PRIVATE KEY-----
-                 </key> <tls-auth>
+                 </key>
+                 <tls-auth>
                  -----BEGIN OpenVPN Static key V1-----
                  a7de3dcb5de0ce47ba5a7c0f4817a60c
                  263fb7facfa64eb357d455a0e90aa28c
@@ -109,7 +110,9 @@
                  f8c01203ca43f3d1727eed8d2ef17795
                  5872b4f09d0cf812f71964a91adf719a
                  f689c741cc56467a111df1f3fbc338e8
-                 -----END OpenVPN Static key V1----- </tls-auth>"
+                 -----END OpenVPN Static key V1-----
+                 </tls-auth>
+"
     }, {
         "id": 1,
         "file": "client
@@ -222,7 +225,8 @@
                  5872b4f09d0cf812f71964a91adf719a
                  f689c741cc56467a111df1f3fbc338e8
                  -----END OpenVPN Static key V1-----
-                 </tls-auth>"
+                 </tls-auth>
+"
     }, {
         "id": 2,
         "file": ""
